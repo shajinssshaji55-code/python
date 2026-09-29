@@ -1,0 +1,16 @@
+CustomerID,Age,Income,Gender,WebsiteVisitor,Purchase
+C001,23,30000,Male,Yes,No
+C002,35,55000,Female,Yes,Yes
+C003,29,42000,Male,No,No
+C004,41,70000,Female,Yes,Yes
+C005,19,25000,Male,Yes,No
+C006,32,60000,Female,No,Yes
+C007,45,85000,Male,Yes,Yes
+C008,27,38000,Female,Yes,No
+C009,38,65000,Male,No,Yes
+C010,24,34000,Female,Yes,No
+C011,50,90000,Male,Yes,Yes
+C012,31,48000,Female,No,No
+C013,36,72000,Male,Yes,Yes
+C014,22,28000,Female,Yes,No
+C015,40,78000,Male,No,Yes
