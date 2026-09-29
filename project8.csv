@@ -1,0 +1,11 @@
+CustomerID,Age,Income,Credit_Rating
+1,22,Low,Fair
+2,25,Medium,Excellent
+3,30,High,Fair
+4,18,Low,Fair
+5,35,High,Excellent
+6,28,Medium,Fair
+7,40,High,Excellent
+8,20,Low,Fair
+9,32,Medium,Excellent
+10,45,High,Fair
