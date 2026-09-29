@@ -1,0 +1,151 @@
+dish_name,recipe_version,ingredients,cooking_time_min,difficulty,calories,user_reviews,taste_rating,health_rating,overall_rating
+Pasta Alfredo,Recipe A,"pasta, mint, spices, masala, rice, oil",10,Easy,183,88,3.7,3.7,3.2
+Pasta Alfredo,Recipe B,"pasta, spices, ghee, garlic, curd, soy sauce",20,Medium,421,188,5,4.9,4.6
+Pasta Alfredo,Recipe C,"pasta, cream, butter, coriander, masala, rice",45,Medium,435,154,3.8,3.9,3.3
+Chicken Curry,Recipe A,"chicken, vegetables, spices, curd, butter, salt",30,Hard,230,297,3.3,2.7,4.9
+Chicken Curry,Recipe B,"chicken, vegetables, coriander, spices, tomato, ghee",10,Easy,836,342,4.6,3.2,4.8
+Chicken Curry,Recipe C,"chicken, curd, oil, butter, soy sauce, tomato",45,Hard,552,256,3.6,3.7,3.1
+Veg Fried Rice,Recipe A,"veg, soy sauce, onion, vegetables, cream, lemon",57,Hard,702,465,4.8,2.9,5
+Veg Fried Rice,Recipe B,"veg, mint, curd, butter, rice, herbs",21,Easy,713,280,4,4.8,3.1
+Veg Fried Rice,Recipe C,"veg, tomato, curd, pepper, oil, cheese",13,Easy,844,443,4.8,3.5,4.8
+Paneer Butter Masala,Recipe A,"paneer, butter, curd, masala, soy sauce, pepper",23,Medium,326,448,4.8,3.1,4.8
+Paneer Butter Masala,Recipe B,"paneer, garlic, rice, pepper, vegetables, spices",53,Medium,298,298,4,3.8,4.9
+Paneer Butter Masala,Recipe C,"paneer, onion, butter, cream, ginger, ghee",42,Hard,565,397,3.5,3.4,4.1
+Chicken Biryani,Recipe A,"chicken, tomato, pepper, cheese, curd, lemon",51,Easy,647,381,3.4,4.5,4.1
+Chicken Biryani,Recipe B,"chicken, ghee, curd, cheese, coriander, soy sauce",36,Hard,177,60,5,3.6,4.4
+Chicken Biryani,Recipe C,"chicken, lemon, spices, pepper, basil, onion",27,Easy,561,292,3.9,2.6,3.8
+Mushroom Soup,Recipe A,"mushroom, spices, herbs, vegetables, cream, oil",41,Hard,837,346,4.5,3.5,3.6
+Mushroom Soup,Recipe B,"mushroom, coriander, curd, garlic, tomato, cream",35,Medium,785,475,4.1,3.4,3.2
+Mushroom Soup,Recipe C,"mushroom, basil, ginger, garlic, cream, tomato",40,Easy,861,322,5,2.7,4
+Egg Fried Rice,Recipe A,"egg, cream, cheese, onion, lemon, pepper",32,Medium,254,313,3.4,4.6,4.1
+Egg Fried Rice,Recipe B,"egg, soy sauce, pepper, curd, vegetables, lemon",50,Hard,520,229,3.7,3.6,3.7
+Egg Fried Rice,Recipe C,"egg, masala, coriander, salt, onion, curd",14,Hard,540,265,4.7,4.6,3.4
+Masala Dosa,Recipe A,"masala, spices, curd, ginger, herbs, lemon",41,Hard,518,329,3.6,3.2,3.3
+Masala Dosa,Recipe B,"masala, lemon, mint, onion, pepper, cream",50,Medium,799,460,3,3.2,3.1
+Masala Dosa,Recipe C,"masala, rice, pepper, oil, herbs, lemon",35,Medium,674,252,4.6,2.8,3.3
+Idli Sambar,Recipe A,"idli, rice, garlic, spices, basil, herbs",27,Easy,263,230,3.5,3.8,3.9
+Idli Sambar,Recipe B,"idli, spices, ghee, butter, salt, basil",11,Medium,798,305,3.7,2.8,3.4
+Idli Sambar,Recipe C,"idli, coriander, butter, soy sauce, lemon, basil",20,Medium,626,59,3.7,4.8,4
+Upma,Recipe A,"upma, rice, vegetables, garlic, herbs, masala",57,Hard,467,50,3.1,4.5,4.8
+Upma,Recipe B,"upma, soy sauce, cheese, basil, garlic, lemon",11,Hard,653,440,3.1,4,4.6
+Upma,Recipe C,"upma, vegetables, onion, coriander, ghee, lemon",35,Hard,516,427,3.4,2.5,3.5
+Pizza Margherita,Recipe A,"pizza, ginger, cheese, butter, pepper, basil",33,Medium,593,296,4.5,4.2,3.8
+Pizza Margherita,Recipe B,"pizza, rice, masala, cream, garlic, oil",57,Medium,204,148,4.5,3.3,3.6
+Pizza Margherita,Recipe C,"pizza, oil, pepper, mint, butter, basil",22,Medium,601,65,4.3,2.9,4.5
+Grilled Sandwich,Recipe A,"grilled, cheese, rice, pepper, mint, spices",49,Medium,243,198,4.4,3.8,3.6
+Grilled Sandwich,Recipe B,"grilled, ginger, garlic, butter, salt, curd",46,Easy,532,147,3.5,4.4,3.7
+Grilled Sandwich,Recipe C,"grilled, oil, lemon, basil, ghee, butter",25,Medium,607,58,3.4,3.1,4.5
+Omelette,Recipe A,"omelette, lemon, masala, spices, basil, coriander",17,Medium,744,398,4,4.5,3.8
+Omelette,Recipe B,"omelette, butter, pepper, rice, tomato, coriander",37,Hard,585,269,4,2.9,4.8
+Omelette,Recipe C,"omelette, ginger, lemon, herbs, soy sauce, salt",33,Hard,740,213,4.5,3.8,3.2
+Dal Tadka,Recipe A,"dal, basil, tomato, herbs, masala, oil",42,Medium,547,163,3.2,3.4,4.2
+Dal Tadka,Recipe B,"dal, salt, tomato, masala, onion, soy sauce",25,Medium,311,409,3.1,4.6,4.2
+Dal Tadka,Recipe C,"dal, cheese, garlic, lemon, tomato, coriander",56,Easy,556,342,3.2,3.5,4.4
+Chole Bhature,Recipe A,"chole, onion, vegetables, cheese, mint, salt",58,Medium,586,446,4.2,2.8,3.1
+Chole Bhature,Recipe B,"chole, salt, cheese, onion, herbs, lemon",51,Medium,252,437,4.4,2.9,4.3
+Chole Bhature,Recipe C,"chole, basil, curd, rice, vegetables, tomato",54,Medium,288,128,4.7,3.7,3.8
+Sushi Roll,Recipe A,"sushi, tomato, basil, vegetables, onion, ginger",11,Medium,545,323,3.6,3.6,3.3
+Sushi Roll,Recipe B,"sushi, oil, salt, ginger, onion, curd",18,Medium,760,264,5,4,4
+Sushi Roll,Recipe C,"sushi, onion, butter, rice, curd, vegetables",37,Easy,779,437,4.3,3.9,4.4
+Ramen,Recipe A,"ramen, coriander, spices, onion, ghee, cheese",56,Medium,279,179,4,2.8,3.2
+Ramen,Recipe B,"ramen, butter, oil, vegetables, lemon, onion",21,Medium,868,158,4.9,3.1,3
+Ramen,Recipe C,"ramen, vegetables, oil, rice, basil, lemon",58,Medium,717,101,4.6,3.6,4.1
+French Fries,Recipe A,"french, cheese, coriander, spices, onion, salt",32,Hard,642,327,4.4,2.8,4.1
+French Fries,Recipe B,"french, soy sauce, onion, cream, mint, coriander",51,Hard,734,232,3.3,4.5,4.5
+French Fries,Recipe C,"french, rice, butter, ginger, lemon, vegetables",57,Medium,765,483,4,3.7,4.9
+Burger,Recipe A,"burger, curd, oil, cream, ghee, spices",40,Hard,674,290,3.4,4.6,4.5
+Burger,Recipe B,"burger, pepper, coriander, butter, cheese, cream",11,Hard,314,341,3.7,2.6,3.5
+Burger,Recipe C,"burger, cream, garlic, rice, mint, lemon",10,Hard,452,355,4.5,3.9,3.5
+Pancakes,Recipe A,"pancakes, coriander, mint, ginger, curd, tomato",14,Hard,778,68,4.7,3.2,4.2
+Pancakes,Recipe B,"pancakes, basil, butter, oil, tomato, coriander",39,Hard,540,148,3.2,4.8,3.9
+Pancakes,Recipe C,"pancakes, vegetables, curd, cheese, coriander, rice",59,Easy,155,115,3.8,4,3.8
+Fish Curry,Recipe A,"fish, basil, masala, spices, oil, rice",22,Medium,357,348,4.2,3.3,3.4
+Fish Curry,Recipe B,"fish, salt, lemon, coriander, ghee, curd",14,Medium,598,354,4.3,3.7,4.5
+Fish Curry,Recipe C,"fish, ginger, oil, masala, basil, vegetables",50,Medium,670,484,4.8,4.9,3.4
+Prawn Fry,Recipe A,"prawn, soy sauce, basil, masala, garlic, ginger",21,Medium,455,235,4.7,3.4,3.6
+Prawn Fry,Recipe B,"prawn, pepper, soy sauce, spices, coriander, masala",16,Hard,434,177,4.4,2.6,4.9
+Prawn Fry,Recipe C,"prawn, oil, cream, lemon, ginger, curd",53,Easy,215,452,4.2,2.6,3.8
+Aloo Paratha,Recipe A,"aloo, vegetables, cream, mint, soy sauce, butter",28,Easy,851,311,3.7,2.7,3.5
+Aloo Paratha,Recipe B,"aloo, butter, herbs, curd, ghee, ginger",55,Easy,435,410,3.2,4,4.4
+Aloo Paratha,Recipe C,"aloo, onion, pepper, ghee, garlic, coriander",33,Easy,360,324,3.3,2.8,4.6
+Mutton Curry,Recipe A,"mutton, cream, garlic, butter, cheese, spices",51,Medium,183,383,3.5,3.6,3.4
+Mutton Curry,Recipe B,"mutton, masala, ghee, coriander, oil, tomato",11,Hard,740,380,3.6,4.6,4.5
+Mutton Curry,Recipe C,"mutton, garlic, mint, coriander, soy sauce, onion",46,Hard,573,177,3.7,2.9,4.5
+Caesar Salad,Recipe A,"caesar, cream, herbs, rice, pepper, salt",35,Easy,704,234,3.2,2.7,3.7
+Caesar Salad,Recipe B,"caesar, mint, basil, salt, herbs, ginger",28,Easy,360,343,4.8,4.6,3.1
+Caesar Salad,Recipe C,"caesar, ginger, butter, ghee, rice, vegetables",46,Medium,828,91,3.8,2.6,4
+Tomato Soup,Recipe A,"tomato, lemon, masala, spices, salt, oil",59,Easy,751,296,4.9,5,4.2
+Tomato Soup,Recipe B,"tomato, masala, lemon, tomato, ghee, coriander",41,Easy,536,388,3.4,2.9,4.7
+Tomato Soup,Recipe C,"tomato, rice, ginger, herbs, cheese, tomato",23,Hard,579,70,4.6,4.9,3.3
+Falooda,Recipe A,"falooda, cheese, masala, salt, lemon, herbs",55,Medium,814,332,4.4,4.4,3.5
+Falooda,Recipe B,"falooda, ginger, rice, garlic, onion, butter",49,Hard,506,302,4.7,4.1,3.9
+Falooda,Recipe C,"falooda, tomato, ginger, masala, garlic, herbs",46,Medium,684,52,3.2,3,4
+Chocolate Cake,Recipe A,"chocolate, mint, coriander, salt, cream, basil",57,Easy,688,139,4.5,3,4.3
+Chocolate Cake,Recipe B,"chocolate, coriander, pepper, ghee, masala, oil",14,Medium,193,442,3.2,4.5,3.8
+Chocolate Cake,Recipe C,"chocolate, soy sauce, cheese, curd, oil, garlic",13,Medium,308,377,4.6,2.8,4.5
+Lemon Rice,Recipe A,"lemon, ghee, soy sauce, vegetables, cheese, rice",53,Medium,712,338,3.3,4.7,3.9
+Lemon Rice,Recipe B,"lemon, tomato, onion, cream, curd, spices",38,Medium,279,69,4.9,3,3.1
+Lemon Rice,Recipe C,"lemon, ginger, rice, butter, spices, masala",53,Hard,392,65,3.4,4.4,3.7
+Sambar Rice,Recipe A,"sambar, garlic, salt, coriander, onion, mint",32,Medium,369,200,3.1,3.7,5
+Sambar Rice,Recipe B,"sambar, ginger, curd, soy sauce, coriander, butter",54,Medium,594,344,4.6,4.9,4.7
+Sambar Rice,Recipe C,"sambar, masala, ghee, spices, rice, mint",13,Easy,476,447,4.2,4,3.9
+Chicken Fried Rice,Recipe A,"chicken, vegetables, tomato, curd, masala, cheese",29,Hard,301,150,4.7,4.7,3.2
+Chicken Fried Rice,Recipe B,"chicken, basil, ginger, cream, tomato, mint",47,Hard,887,146,3.6,4.6,3.2
+Chicken Fried Rice,Recipe C,"chicken, pepper, vegetables, herbs, salt, soy sauce",46,Easy,374,455,4,4.9,3.7
+Beef Steak,Recipe A,"beef, ghee, vegetables, soy sauce, cheese, pepper",13,Easy,683,273,5,2.8,3.4
+Beef Steak,Recipe B,"beef, mint, rice, curd, cheese, basil",25,Easy,578,57,4.7,2.9,4.4
+Beef Steak,Recipe C,"beef, soy sauce, herbs, basil, butter, mint",51,Hard,154,280,4.7,4.2,3.8
+Veg Pulao,Recipe A,"veg, cheese, herbs, soy sauce, rice, ghee",10,Hard,562,85,3.1,4.6,4.9
+Veg Pulao,Recipe B,"veg, basil, oil, vegetables, mint, soy sauce",50,Easy,538,112,3.8,2.9,4.9
+Veg Pulao,Recipe C,"veg, coriander, herbs, oil, tomato, garlic",30,Hard,188,249,3.5,2.7,4.2
+Rajma Chawal,Recipe A,"rajma, vegetables, soy sauce, tomato, rice, mint",50,Medium,834,254,4.4,3.6,3.3
+Rajma Chawal,Recipe B,"rajma, mint, coriander, herbs, garlic, cream",44,Easy,346,295,4.8,4.1,3
+Rajma Chawal,Recipe C,"rajma, oil, soy sauce, garlic, cheese, spices",15,Hard,687,123,4.2,3.9,3.8
+Pav Bhaji,Recipe A,"pav, butter, ginger, rice, mint, vegetables",14,Medium,883,317,4.4,2.9,3.4
+Pav Bhaji,Recipe B,"pav, herbs, cream, rice, garlic, coriander",57,Medium,382,184,3.2,2.8,4.6
+Pav Bhaji,Recipe C,"pav, curd, lemon, cheese, ghee, garlic",60,Hard,188,285,3,2.7,4.5
+Tandoori Chicken,Recipe A,"tandoori, mint, pepper, tomato, rice, salt",10,Easy,302,365,3.1,4.6,3.3
+Tandoori Chicken,Recipe B,"tandoori, masala, curd, ghee, oil, lemon",50,Easy,733,87,3.5,4.7,4.5
+Tandoori Chicken,Recipe C,"tandoori, cheese, tomato, cream, herbs, salt",24,Medium,231,107,4.9,3.8,3.9
+Garlic Bread,Recipe A,"garlic, masala, mint, basil, cream, curd",22,Hard,413,468,4,4.3,3.1
+Garlic Bread,Recipe B,"garlic, masala, butter, herbs, garlic, onion",42,Medium,222,305,4.1,4.8,3.9
+Garlic Bread,Recipe C,"garlic, cheese, rice, garlic, ghee, lemon",16,Easy,754,452,3.7,3.9,4.6
+Shawarma,Recipe A,"shawarma, salt, curd, soy sauce, mint, tomato",57,Hard,661,150,3.8,3,3.2
+Shawarma,Recipe B,"shawarma, herbs, pepper, garlic, butter, onion",56,Easy,796,393,4.2,4.9,4.2
+Shawarma,Recipe C,"shawarma, soy sauce, salt, lemon, ginger, cheese",15,Hard,389,222,4.3,3.8,4.6
+Veg Momos,Recipe A,"veg, mint, salt, ginger, pepper, ghee",39,Medium,723,143,4.2,3.6,4.4
+Veg Momos,Recipe B,"veg, butter, rice, cheese, masala, pepper",41,Medium,820,368,4.3,3.5,4.9
+Veg Momos,Recipe C,"veg, lemon, mint, tomato, pepper, soy sauce",31,Hard,777,337,4.8,3.1,4.7
+Chicken Momos,Recipe A,"chicken, herbs, garlic, curd, oil, tomato",11,Medium,484,120,4.4,2.8,4.1
+Chicken Momos,Recipe B,"chicken, cream, vegetables, basil, onion, curd",14,Hard,420,498,3.3,2.5,3.5
+Chicken Momos,Recipe C,"chicken, curd, salt, masala, cheese, cream",29,Easy,566,342,4.9,2.9,3.8
+Bhel Puri,Recipe A,"bhel, curd, butter, tomato, salt, rice",42,Easy,352,163,4.8,3.7,4.5
+Bhel Puri,Recipe B,"bhel, masala, cream, curd, salt, cheese",25,Easy,276,482,4.5,4.9,4.2
+Bhel Puri,Recipe C,"bhel, soy sauce, cheese, cream, basil, ginger",42,Easy,437,172,4.2,3.1,3.6
+Cutlet,Recipe A,"cutlet, herbs, ghee, rice, curd, mint",12,Medium,411,384,3.7,4.3,5
+Cutlet,Recipe B,"cutlet, garlic, cream, lemon, spices, pepper",36,Hard,251,106,4.6,4.9,4.5
+Cutlet,Recipe C,"cutlet, rice, spices, cream, onion, pepper",21,Easy,690,74,3.4,4.9,4.5
+Chicken Roll,Recipe A,"chicken, lemon, curd, butter, garlic, tomato",24,Medium,507,227,3.3,2.5,4.1
+Chicken Roll,Recipe B,"chicken, pepper, oil, cheese, curd, tomato",56,Medium,684,495,3.8,4.6,4.7
+Chicken Roll,Recipe C,"chicken, onion, ghee, rice, spices, curd",43,Medium,154,174,4.9,3.9,4.6
+Fried Fish,Recipe A,"fried, basil, mint, garlic, masala, cheese",49,Hard,573,335,4,4.3,4.9
+Fried Fish,Recipe B,"fried, mint, pepper, coriander, cheese, soy sauce",19,Medium,181,443,4.7,4.1,3
+Fried Fish,Recipe C,"fried, curd, ghee, herbs, oil, coriander",46,Hard,200,415,4.5,4.9,4.3
+Curd Rice,Recipe A,"curd, ginger, butter, soy sauce, vegetables, curd",42,Medium,270,85,3.9,3.4,4.6
+Curd Rice,Recipe B,"curd, cream, coriander, masala, garlic, soy sauce",60,Hard,268,294,4,3.4,3.8
+Curd Rice,Recipe C,"curd, coriander, soy sauce, butter, herbs, spices",48,Medium,884,382,3.8,2.9,4
+Kadai Paneer,Recipe A,"kadai, lemon, spices, garlic, basil, ghee",46,Easy,535,339,4.7,2.6,3.5
+Kadai Paneer,Recipe B,"kadai, ginger, curd, vegetables, spices, ghee",26,Easy,675,243,3.3,3.8,4
+Kadai Paneer,Recipe C,"kadai, soy sauce, ginger, curd, butter, lemon",53,Hard,671,408,4.7,3,3.2
+Gobi Manchurian,Recipe A,"gobi, mint, masala, garlic, rice, butter",23,Medium,732,439,4.1,4.8,4
+Gobi Manchurian,Recipe B,"gobi, mint, onion, lemon, basil, tomato",43,Hard,236,177,3.3,4.5,4.6
+Gobi Manchurian,Recipe C,"gobi, ghee, vegetables, coriander, onion, pepper",25,Medium,303,243,4,3.6,3.1
+Chicken Manchurian,Recipe A,"chicken, salt, herbs, coriander, mint, oil",50,Medium,387,211,3.1,3.2,4.9
+Chicken Manchurian,Recipe B,"chicken, oil, salt, soy sauce, cream, spices",52,Hard,214,150,4.4,4,4
+Chicken Manchurian,Recipe C,"chicken, mint, vegetables, onion, garlic, masala",54,Hard,643,213,4.5,3.1,3.5
+Roti Curry,Recipe A,"roti, basil, onion, mint, spices, cream",57,Hard,341,391,3.8,3.2,4
+Roti Curry,Recipe B,"roti, ginger, butter, vegetables, coriander, masala",54,Easy,756,177,4.3,2.7,3.7
+Roti Curry,Recipe C,"roti, soy sauce, pepper, cheese, mint, oil",51,Hard,763,132,4.6,3.8,3.9
+Veg Biryani,Recipe A,"veg, cream, coriander, salt, basil, mint",40,Easy,845,498,3.2,2.9,3.2
+Veg Biryani,Recipe B,"veg, coriander, herbs, ghee, tomato, basil",44,Easy,334,383,3.2,2.5,4.6
+Veg Biryani,Recipe C,"veg, spices, masala, butter, vegetables, mint",37,Medium,876,489,4,4.7,4.4
